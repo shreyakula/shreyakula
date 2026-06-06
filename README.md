@@ -1,50 +1,50 @@
-<div align="center">
-
-# Hi, I'm Shreya!
-
-Welcome to my little corner of GitHub <3
+<h1 align="center" style="color:#ff9ecb;">
+  ✨ Hi, I'm Shreya ✨
+</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,vite,git,github,aws,html,css,vercel,supabase" />
+  Welcome to my little corner of GitHub &lt;3
 </p>
 
-<img src="./assets/study-girl.gif" width="700">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,vite,html,css,mysql,git,github,aws,vercel,supabase" />
+</p>
 
-</div>
+---
 
-<br>
+<p align="center">
+  <img src="YOUR_ANIME_GIF" width="700"/>
+</p>
 
-This is a space where I explore ideas, build things that spark my curiosity, and share pieces of my journey as a developer. Some days you'll find code, while other days you'll find design experiments or something new that caught my interest.
+<p align="center">
+  This is a space where I explore ideas, build things, and share my journey ✨
+</p>
 
-I'm a Computer Science student with a passion for AI and machine learning, data science, and software development. I love creating things that are both useful and enjoyable to interact with.
-
-For me, coding is more than solving problems. It's a creative outlet. I enjoy combining technology with design to bring ideas to life and continuously learning how things work behind the scenes.
-
-<br>
-
-<div align="center">
-
-<h3>
-<img src="./assets/butterfly.gif" width="20">
-Currently Exploring
-</h3>
-
-<ul align="left" style="display:inline-block; text-align:left;">
-<li>Artificial Intelligence & Machine Learning</li>
-<li>Data Science & Analytics</li>
-<li>Full Stack Development</li>
-<li>Design & User Experience</li>
-</ul>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/shreyakula/shreyakula/output/github-contribution-grid-snake.svg" width="100%">
-
-</div>
-
-<br>
+---
 
 <div align="center">
-  <img src="./assets/cat.gif" width="120">
+  <table>
+    <tr>
+      <td align="left" width="50%" style="border:none;">
+
+### 🦋 Currently Exploring
+- ✦ Artificial Intelligence & Machine Learning  
+- ✦ Data Science & Analytics  
+- ✦ Full Stack Development  
+- ✦ Design & UX  
+
+      </td>
+
+      <td align="center" width="50%" style="border:none;">
+
+<img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+
+      </td>
+    </tr>
+  </table>
 </div>
+
+<p align="center">
+  <img src="YOUR_CAT_GIF" width="450px"/>
+</p>
 
