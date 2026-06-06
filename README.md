@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, I'm Shreya
+# Hi, I'm Shreya!
 
 Welcome to my little corner of GitHub <3
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,git,github,aws,js,html,css,vite,mysql,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,vite,git,github,aws,html,css,vercel,supabase" />
 </p>
 
 <img src="./assets/study-girl.gif" width="700">
