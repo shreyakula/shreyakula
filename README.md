@@ -4,7 +4,7 @@
 
 <p>
   <img src="./assets/butterfly.gif" width="30"/>
-  Welcome to my little corner of GitHub &lt;3
+   Welcome to my little corner of GitHub!
 </p>
 
 <br>
