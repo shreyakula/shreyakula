@@ -1,31 +1,23 @@
-<h1 align="center" style="color:#ff9ecb;">
-  ✨ Hi, I'm Shreya ✨
+<h1 align="center">
+  Hi, I'm Shreya 🌸
 </h1>
 
 <p align="center">
-  Welcome to my little corner of GitHub &lt;3
+  <i>Welcome to my little corner of GitHub &lt;3</i>
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,vite,html,css,mysql,git,github,aws,vercel,supabase" />
 </p>
 
----
-
 <p align="center">
-  <img src="YOUR_ANIME_GIF" width="700"/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="700"/>
 </p>
-
-<p align="center">
-  This is a space where I explore ideas, build things, and share my journey ✨
-</p>
-
----
 
 <div align="center">
   <table>
     <tr>
-      <td align="left" width="50%" style="border:none;">
+      <td width="50%" align="left">
 
 ### 🦋 Currently Exploring
 - ✦ Artificial Intelligence & Machine Learning  
@@ -35,9 +27,9 @@
 
       </td>
 
-      <td align="center" width="50%" style="border:none;">
+      <td width="50%" align="center">
 
-<img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/shreyakula/shreyakula/output/github-contribution-grid-snake.svg" width="100%"/>
 
       </td>
     </tr>
@@ -45,6 +37,5 @@
 </div>
 
 <p align="center">
-  <img src="YOUR_CAT_GIF" width="450px"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="450"/>
 </p>
-
