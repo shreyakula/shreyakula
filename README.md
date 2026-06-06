@@ -1,20 +1,15 @@
 <div align="center">
 
-# Hi, I'm Shreya 
-<img src="./assets/heart.png" width="25"/>
-<img src="./assets/bunny.png" width="60"/>
+# Hi, I'm Shreya <img src="./assets/heart.png" width="20"/> <img src="./assets/bunny.png" width="45"/>
 
 <p>
   <img src="./assets/butterfly.png" width="20"/>
   Welcome to my little corner of GitHub &lt;3
 </p>
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,c,react,vite,jsx,mysql,html,css,git,github,aws,vercel,supabase" />
 </p>
-
 <img src="./assets/study-girl.gif" width="700"/>
-
 </div>
 
 <br>
@@ -27,28 +22,33 @@ For me, coding is more than solving problems. It's a creative outlet. I enjoy co
 
 <br>
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 <div align="center">
 
 ### <img src="./assets/robo.png" width="22"/> Currently Exploring
 
 </div>
 
-<ul>
-<li>Artificial Intelligence & Machine Learning</li>
-<li>Data Science & Analytics</li>
-<li>Full Stack Development</li>
-<li>Design & User Experience</li>
-</ul>
+- Artificial Intelligence & Machine Learning
+- Data Science & Analytics
+- Full Stack Development
+- Design & User Experience
 
-<br>
+</td>
+<td valign="top" width="50%">
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyakula/shreyakula/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyakula/shreyakula/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/shreyakula/shreyakula/output/github-contribution-grid-snake.svg" />
+</picture>
 
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/shreyakula/shreyakula/output/github-contribution-grid-snake.svg" />
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
