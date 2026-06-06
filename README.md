@@ -34,7 +34,7 @@ For me, coding is more than solving problems. It's a creative outlet. I enjoy co
 
 <div align="left">
 
-### <img src="./assets/robo.png" width="60"/>Currently Exploring
+### <img src="./assets/heart.png" width="20" style="vertical-align:middle"/>Currently Exploring
 
 </div>
 
