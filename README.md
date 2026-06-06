@@ -29,7 +29,7 @@ I'm a Computer Science student with a passion for AI and machine learning, data 
 
 For me, coding is more than solving problems. It's a creative outlet. I enjoy combining technology with design to bring ideas to life and continuously learning how things work behind the scenes.
 
-<br>
+
 
 <div align="left">
 
