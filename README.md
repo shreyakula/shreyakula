@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I'm Shreya <img src="./assets/heart.png" width="18"/> <img src="./assets/bunny.png" width="42"/>
+# Hi, I'm Shreya <img src="./assets/heart.png" width="25"/> <img src="./assets/bunny.png" width="60"/>
 
 <p>
-  <img src="./assets/butterfly.png" width="20"/>
+  <img src="./assets/butterfly.gif" width="25"/>
   Welcome to my little corner of GitHub &lt;3
 </p>
 
@@ -25,9 +25,9 @@ For me, coding is more than solving problems. It's a creative outlet. I enjoy co
 
 <br>
 
-<div align="center">
+<div align="left">
 
-### <img src="./assets/robo.png" width="22"/> Currently Exploring
+### <img src="./assets/robo.png" width="30"/> Currently Exploring
 
 </div>
 
@@ -38,8 +38,8 @@ For me, coding is more than solving problems. It's a creative outlet. I enjoy co
 
 <br>
 
-<div align="center">
-  <img src="./assets/snake-game.svg" width="700"/>
+<div align="right">
+  <img src="./assets/snake-game.svg" width="350"/>
 </div>
 
 <br>
