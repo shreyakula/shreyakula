@@ -1,15 +1,18 @@
 <div align="center">
 
-# Hi, I'm Shreya <img src="./assets/heart.png" width="20"/> <img src="./assets/bunny.png" width="45"/>
+# Hi, I'm Shreya <img src="./assets/heart.png" width="18"/> <img src="./assets/bunny.png" width="42"/>
 
 <p>
   <img src="./assets/butterfly.png" width="20"/>
   Welcome to my little corner of GitHub &lt;3
 </p>
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,c,react,vite,jsx,mysql,html,css,git,github,aws,vercel,supabase" />
 </p>
+
 <img src="./assets/study-girl.gif" width="700"/>
+
 </div>
 
 <br>
@@ -22,10 +25,6 @@ For me, coding is more than solving problems. It's a creative outlet. I enjoy co
 
 <br>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 <div align="center">
 
 ### <img src="./assets/robo.png" width="22"/> Currently Exploring
@@ -37,18 +36,11 @@ For me, coding is more than solving problems. It's a creative outlet. I enjoy co
 - Full Stack Development
 - Design & User Experience
 
-</td>
-<td valign="top" width="50%">
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyakula/shreyakula/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyakula/shreyakula/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/shreyakula/shreyakula/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./assets/snake-game.svg" width="700"/>
+</div>
 
 <br>
 
