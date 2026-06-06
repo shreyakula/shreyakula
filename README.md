@@ -10,7 +10,7 @@
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,react,vite,jsx,mysql,html,css,git,github,aws,vercel,supabase" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,react,vite,mysql,html,css,git,github,aws,vercel,supabase" />
 </p>
 
 <br>
@@ -34,7 +34,7 @@ For me, coding is more than solving problems. It's a creative outlet. I enjoy co
 
 <div align="left">
 
-### <img src="./assets/robo.png" width=""/> Currently Exploring
+### <img src="./assets/robo.png" width="40"/> Currently Exploring
 
 </div>
 
