@@ -25,25 +25,32 @@ For me, coding is more than solving problems. It's a creative outlet. I enjoy co
 
 <br>
 
-<div align="left">
+<div align="center">
 
-### <img src="./assets/robo.png" width="30"/> Currently Exploring
+### <img src="./assets/robo.png" width="22"/> Currently Exploring
 
 </div>
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 - Artificial Intelligence & Machine Learning
 - Data Science & Analytics
 - Full Stack Development
 - Design & User Experience
 
-<br>
+</td>
+<td align="center" valign="top" width="50%">
 
-<div align="right">
-  <img src="./assets/snake-game.svg" width="350"/>
-</div>
+<img src="./assets/cat.gif" width="220">
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <div align="center">
-  <img src="./assets/cat.gif" width="220">
+  <img src="./assets/snake-game.svg" width="700"/>
 </div>
