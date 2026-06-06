@@ -3,7 +3,7 @@
 # Hi, I'm Shreya <img src="./assets/heart.png" width="25"/> <img src="./assets/bunny.png" width="60"/>
 
 <p>
-  <img src="./assets/butterfly.gif" width="25"/>
+  <img src="./assets/butterfly.gif" width="30"/>
   Welcome to my little corner of GitHub &lt;3
 </p>
 
@@ -27,7 +27,7 @@ For me, coding is more than solving problems. It's a creative outlet. I enjoy co
 
 <div align="left">
 
-### <img src="./assets/robo.png" width="50"/> Currently Exploring
+###Currently Exploring
 
 </div>
 
@@ -39,7 +39,7 @@ For me, coding is more than solving problems. It's a creative outlet. I enjoy co
 <br>
 
 <div align="center">
-  <img src="./assets/snake-game.svg" width="900"/>
+  <img src="./assets/snake-game.svg" width="1000"/>
 </div>
 
 <br>
