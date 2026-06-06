@@ -1,41 +1,57 @@
-<h1 align="center">
-  Hi, I'm Shreya 🌸
-</h1>
-
-<p align="center">
-  <i>Welcome to my little corner of GitHub &lt;3</i>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,vite,html,css,mysql,git,github,aws,vercel,supabase" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="700"/>
-</p>
-
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="left">
 
-### 🦋 Currently Exploring
-- ✦ Artificial Intelligence & Machine Learning  
-- ✦ Data Science & Analytics  
-- ✦ Full Stack Development  
-- ✦ Design & UX  
+# Hi, I'm Shreya 
+<img src="./assets/heart.png" width="25"/>
+<img src="./assets/bunny.png" width="60"/>
 
-      </td>
+<p>
+  <img src="./assets/butterfly.png" width="20"/>
+  Welcome to my little corner of GitHub &lt;3
+</p>
 
-      <td width="50%" align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,react,vite,jsx,mysql,html,css,git,github,aws,vercel,supabase" />
+</p>
 
-<img src="https://raw.githubusercontent.com/shreyakula/shreyakula/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="./assets/study-girl.gif" width="700"/>
 
-      </td>
-    </tr>
-  </table>
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="450"/>
-</p>
+<br>
+
+This is a space where I explore ideas, build things that spark my curiosity, and share pieces of my journey as a developer. Some days you'll find code, while other days you'll find design experiments or something new that caught my interest.
+
+I'm a Computer Science student with a passion for AI and machine learning, data science, and software development. I love creating things that are both useful and enjoyable to interact with.
+
+For me, coding is more than solving problems. It's a creative outlet. I enjoy combining technology with design to bring ideas to life and continuously learning how things work behind the scenes.
+
+<br>
+
+<div align="center">
+
+### <img src="./assets/robo.png" width="22"/> Currently Exploring
+
+</div>
+
+<ul>
+<li>Artificial Intelligence & Machine Learning</li>
+<li>Data Science & Analytics</li>
+<li>Full Stack Development</li>
+<li>Design & User Experience</li>
+</ul>
+
+<br>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/shreyakula/shreyakula/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./assets/cat.gif" width="220">
+</div>
