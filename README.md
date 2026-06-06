@@ -3,8 +3,7 @@
 <h1>Hi, I'm Shreya <img src="./assets/heart.png" width="15" style="vertical-align:middle"/> <img src="./assets/bunny.png" width="50" style="vertical-align:middle"/></h1>
 
 <p>
-  <img src="./assets/butterfly.gif" width="30"/>
-   Welcome to my little corner of GitHub!
+  <img src="./assets/butterfly.gif" width="30"/> Welcome to my little corner of GitHub!
 </p>
 
 <br>
