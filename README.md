@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Shreya <img src="./assets/heart.png" width="20" style="vertical-align:middle"/> <img src="./assets/bunny.png" width="45" style="vertical-align:middle"/></h1>
+<h1>Hi, I'm Shreya <img src="./assets/heart.png" width="15" style="vertical-align:middle"/> <img src="./assets/bunny.png" width="50" style="vertical-align:middle"/></h1>
 
 <p>
   <img src="./assets/butterfly.gif" width="30"/>
@@ -34,7 +34,7 @@ For me, coding is more than solving problems. It's a creative outlet. I enjoy co
 
 <div align="left">
 
-### <img src="./assets/heart.png" width="20" style="vertical-align:middle"/>Currently Exploring
+### <img src="./assets/heart.png" width="20" style="vertical-align:middle"/> Currently Exploring
 
 </div>
 
