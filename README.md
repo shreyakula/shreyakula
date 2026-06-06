@@ -22,33 +22,25 @@ For me, coding is more than solving problems. It's a creative outlet. I enjoy co
 
 <br>
 
-<table>
-<tr>
-
-<td width="45%" valign="top">
+<div align="center">
 
 <h3>
 <img src="./assets/butterfly.gif" width="20">
- Currently Exploring
+Currently Exploring
 </h3>
 
-<ul>
+<ul align="left" style="display:inline-block; text-align:left;">
 <li>Artificial Intelligence & Machine Learning</li>
 <li>Data Science & Analytics</li>
 <li>Full Stack Development</li>
 <li>Design & User Experience</li>
 </ul>
 
-</td>
+<br><br>
 
-<td width="55%" align="center">
+<img src="https://raw.githubusercontent.com/shreyakula/shreyakula/output/github-contribution-grid-snake.svg" width="100%">
 
-<img src="https://github.com/shreyakula/shreyakula/blob/output/github-contribution-grid-snake.svg">
-
-</td>
-
-</tr>
-</table>
+</div>
 
 <br>
 
