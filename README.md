@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,react,vite,jsx,mysql,html,css,git,github,aws,vercel,supabase" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,react,vite,mysql,html,css,git,github,aws,vercel,supabase" />
 </p>
 
 <img src="./assets/study-girl.gif" width="700"/>
