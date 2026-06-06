@@ -7,11 +7,16 @@
   Welcome to my little corner of GitHub &lt;3
 </p>
 
+<br>
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,c,react,vite,jsx,mysql,html,css,git,github,aws,vercel,supabase" />
 </p>
 
 <br>
+
+<br>
+
 
 <img src="./assets/study-girl.gif" width="700"/>
 
