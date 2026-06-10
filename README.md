@@ -40,7 +40,7 @@ For me, coding is more than solving problems. It's a creative outlet. I enjoy co
 - Artificial Intelligence & Machine Learning
 - Data Science & Analytics
 - Full Stack Development
-- Design & User Experience
+- Design & User Exp
 
 <br>
 
