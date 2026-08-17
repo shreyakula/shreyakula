@@ -1,9 +1,14 @@
 <div align="center">
 
-<h1>Hi, I'm Shreya <img src="./assets/heart.png" width="15" style="vertical-align:middle"/> <img src="./assets/bunny.png" width="50" style="vertical-align:middle"/></h1>
+<h1>
+Hi, I'm Shreya
+<img src="https://raw.githubusercontent.com/shreyakula/shreyakula/main/assets/heart.png" width="15" style="vertical-align:middle"/>
+<img src="https://raw.githubusercontent.com/shreyakula/shreyakula/main/assets/bunny.png" width="50" style="vertical-align:middle"/>
+</h1>
 
 <p>
-  <img src="./assets/butterfly.gif" width="30"/> Welcome to my little corner of GitHub!
+  <img src="https://raw.githubusercontent.com/shreyakula/shreyakula/main/assets/butterfly.gif" width="30"/>
+  Welcome to my little corner of GitHub!
 </p>
 
 <br>
@@ -13,11 +18,9 @@
 </p>
 
 <br>
-
 <br>
 
-
-<img src="./assets/study-girl.gif" width="700"/>
+<img src="https://raw.githubusercontent.com/shreyakula/shreyakula/main/assets/study-girl.gif" width="700"/>
 
 </div>
 
@@ -29,11 +32,9 @@ I'm a Computer Science student with a passion for AI and machine learning, data 
 
 For me, coding is more than solving problems. It's a creative outlet. I enjoy combining technology with design to bring ideas to life and continuously learning how things work behind the scenes.
 
-
-
 <div align="left">
 
-### <img src="./assets/heart.png" width="20" style="vertical-align:middle"/> Currently Exploring
+### <img src="https://raw.githubusercontent.com/shreyakula/shreyakula/main/assets/heart.png" width="20" style="vertical-align:middle"/> Currently Exploring
 
 </div>
 
@@ -45,7 +46,8 @@ For me, coding is more than solving problems. It's a creative outlet. I enjoy co
 <br>
 
 <div align="center">
-  <img src="./assets/snake-game.svg" width="1000"/>
+  <img src="https://raw.githubusercontent.com/shreyakula/shreyakula/main/assets/snake-game.svg" width="1000"/>
 </div>
 
 <br>
+```
